@@ -16,7 +16,7 @@ Chaque utilisateur peut s'inscrire, se connecter, puis créer, lire, modifier et
 ### 1. Cloner et installer
 
 ```bash
-git clone <url-de-votre-depot>
+git clone <https://github.com/prettyshaela16-create/le-cerveau.git>
 cd le-cerveau
 npm install
 ```
